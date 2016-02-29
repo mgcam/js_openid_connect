@@ -1,1 +1,1 @@
-Pilot project to try out openid cconnect authentication
+Pilot project to try out openid connect authentication
